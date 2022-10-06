@@ -1,4 +1,4 @@
-module github.com/grafana/loki
+module github.com/abelanger5/loki
 
 go 1.19
 
